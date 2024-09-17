@@ -1,6 +1,3 @@
-# Here is the code to create the README.md file
-
-md_content = """
 # Data Transparency in Motor Vehicle Crash Reporting
 
 ## Project Overview
