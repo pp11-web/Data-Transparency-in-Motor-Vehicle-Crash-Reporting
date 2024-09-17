@@ -70,11 +70,3 @@ Using Power BI, visualizations were created to analyze crash trends, fatality ty
 
 1. **Improved Data Quality:** Explore advanced machine learning models to predict accident hotspots.
 2. **Real-Time Data:** Integration with IoT devices for real-time crash monitoring.
-
-"""
-
-# Writing the content to a markdown file
-with open("/mnt/data/README.md", "w") as f:
-    f.write(md_content)
-
-"/mnt/data/README.md"
